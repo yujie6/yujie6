@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently applying for a Ph.D. on security and privacy that starts in 2022 Fall
+- 🌱 I’m currently learning correlated OT
+- ❤️ I'm using archlinux and love open softwares
+- ⚡ Fun fact: I enjoy running and plan to run a marathon after being accepted to a any Ph.D. program
+| <a href="https://github-readme-stats.vercel.app/api?username=yujie6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yujie6&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yujie6's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 **yujie6/yujie6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
